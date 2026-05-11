@@ -1,7 +1,31 @@
 cd programadores_para_la_paz
+
 mkdir semana_2
+
 cd semana_2
+
 nano preguntas-semana2.txt
+
 nano comandos-terminal.txt
+
 nano reflexion-semana2.txt
 
+git init
+
+git remote -v
+
+git remote add origin https://github.com/Julieht08/programadores_para_la_paz.git
+
+git status
+
+git add .
+
+git commit -m "Desarrollo semana 2"
+
+git push origin main
+
+git pull origin main --allow-unrelated-histories
+
+git pull origin main --allow-unrelated-histories --no-rebase
+
+git push origin main
