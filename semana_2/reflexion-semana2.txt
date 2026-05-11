@@ -1,0 +1,10 @@
+Es esencial que un desarrollador sepa manejar la terminal ya que le permite poder navegar, organizar
+y administrar los archivos de manera optima y a la vez eficiente dentro de un proyecto. Además,
+de que son muchas las herramientas de programación, los servidores y los sistemas operativos que
+funcionan haciendo uso de la terminal, por lo cual conocer los comandos básicos ayuda mucho a ejecutar
+dichos programas, poder instalar dependencias, mover archivos o llegar a  automatizar tareas. También 
+facilita el trabajo en los  entornos como lo es Linux y el uso de ciertas  herramientas de desarrollo 
+como Git. El uso de la terminal facilita comprender mejor la estructura interna de lo que es un proyecto
+y saber cómo es que se comunican los diferentes archivos y las carpetas. Permite que se  trabaje de forma
+profesional y poder tener mucho más control sobre el sistema, sobretodo en las tareas de desarrollo
+web, las administración de servidores y la programación en general. 
