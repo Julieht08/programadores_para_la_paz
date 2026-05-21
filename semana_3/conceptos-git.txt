@@ -1,0 +1,18 @@
+* Repositorio:
+Se entiende como repositorio al lugar en el que se guarda un proyecto y 
+todos sus archivos, también su historial de cambios. Un repositorio es 
+muy útil ya que permite organizar, modificar y compartir los proyectos 
+usando un sistema de control de versiones como lo es Git. Pueden 
+encontrarse en plataformas como lo es GitHub
+
+* Commit:
+Un commit es un registro o acerca de los cambios que se realizan en un 
+proyecto en cierto momento específico. Cada uno de los commit que se 
+guardan indica qué archivos fueron los modificados e incluye un mensaje 
+descriptivo, un ejemplo es: “Se añadió el README”.
+
+* Push:
+El Push es la acción para enviar los commits realizados desde el 
+computador local hacia un repositorio que se encuentra de manera remota, 
+como lo es en GitHub. Lo cual permite actualizar el proyecto de manera en 
+línea y asó poder compartir los cambios realizados con otras personas.
