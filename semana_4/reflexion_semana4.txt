@@ -1,0 +1,10 @@
+Es muy importante que las comunidades o las iniciativas ciudadanas puedan 
+llegar a construir sus herramientas tecnológicas haciendo uso de las  
+tecnologías abiertas como lo es Node.js, porque así ayudan a no depender de 
+plataformas que sean de caracter comercial que tienen acceso a sus datos sin
+control. Cuando se usa software abierto, las comunidades adaptan las diferentes 
+herramientas a sus necesidades, sin la necesidad de licencias costosas ni presentar  
+barreras técnicas que hayan impuesto terceros. Node.js, es ligero y tiene un 
+enorme ecosistema de módulos gratuitos, que permiten desarrollar sistemas de 
+alerta vecinal así como plataformas de participación ciudadana con recursos 
+mínimos. 
