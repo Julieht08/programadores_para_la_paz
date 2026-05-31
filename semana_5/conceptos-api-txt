@@ -1,0 +1,14 @@
+Conceptos para la ruta /reporte
+
+La ruta app.post('/reporte') es quien recibe las solicitudes de tipo POST 
+que son enviadas a la dirección /reporte. Dentro de esta ruta se obtiene el 
+valor mensaje que es enviado por el cliente mediante las req.body.mensaje. 
+Luego de esto, el servidor responde con un objeto de tipo JSON el cual indica 
+que el reporte fue recibido y poe ello devuelve el mensaje enviado.
+
+Esta ruta podría ser muy util en una aplicación comunitaria para que los 
+ciudadanos puedan enviar sus reportes sobre los problemas o las necesidades 
+que presenta la comunidad, como puede ser daños en vías, las fallas en 
+servicios públicos, las diferentes situaciones de riesgo o las sugerencias
+que se presenten. De esta forma, la aplicación puede recibir las información de 
+los usuarios y con ello confirmar que el reporte sea registrado correctamente.

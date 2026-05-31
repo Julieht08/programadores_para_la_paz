@@ -1,0 +1,9 @@
+Las APIs son muy utiles ya que permiten que las diferentes aplicaciones o los 
+sistemas se puedan comunicar entre sí de una forma automática y estructurada, 
+lo cual es clave para que una comunidad pueda compartir información, reportes o 
+incluso alertas sin haber desorden. Un ejemplo, se podría crear una API la cual 
+reciba los reportes de los ciudadanos desde una aplicación móvil, los valide y 
+luego los publique de forma automatica en un mapa web que sea accesible 
+para todos. Gracias a las APIs, es más fácl organizar los datos en formatos 
+estándar como los JSON, esto facilita que cualquier otra herramienta ya sea un 
+bot de Telegram,o incluso una página web y los consulte en tiempo real. 
