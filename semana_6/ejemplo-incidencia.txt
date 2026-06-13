@@ -1,0 +1,5 @@
+{
+  "tipo": "Basura regada por el parque",
+  "descripcion": "La comunidad reporta que en el parque se encuentra basura regada luego de espocas festivas."
+}
+

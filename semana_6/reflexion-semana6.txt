@@ -1,0 +1,10 @@
+Es esencial que las plataformas tecnológicas puedan recibir reportes e 
+información de una manera estructurada porque esto ayuda a la organización y 
+el análisis de todos los datos que envian los ciudadanos. Cuando la información 
+sigue cierto formato definido, las entidades pueden llegar a procesarla más 
+rápido y así poder reducir los errores. Además, que se permite clasificar los 
+reportes teniendo en cuenta su tipo, la ubicación o el nivel de prioridad 
+que poseen. Esto ayuda a mejorar la comunicación entre la comunidad y las 
+instituciones que son responsables. También es de ayuda para generar las 
+estadísticas y detectar los problemas más recurrentes en una zona o en una 
+comunidad. 
