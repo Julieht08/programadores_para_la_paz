@@ -1,0 +1,11 @@
+uname -a -> este comando muestra información detallada sobre el sistema 
+operativo, como lo es el nombre del kernel, la versión, la arquitectura del 
+procesador y el nombre del equipo.
+
+whoami -> muestra el nombre del usuario que se está ejecutando en la sesión 
+actual.
+
+Conocer este tipo de información es útil al administrar un servidor ya que 
+permite poder verificar el sistema en uso, así identificar el usuario con el 
+que se está trabajando y poder facilitar la configuración, el mantenimiento y 
+la solución de problemas del servidor.

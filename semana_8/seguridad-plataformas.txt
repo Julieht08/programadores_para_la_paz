@@ -1,0 +1,6 @@
+
+1. Usar contraseñas que sean seguras.
+2. Verificar primero la identidad de los usuarios.
+3. Asignar los permisos según el rol.
+4. Proteger los datos personales de los usuarios.
+5. Realizar copias de seguridad de manera constante.

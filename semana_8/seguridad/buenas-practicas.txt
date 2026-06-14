@@ -1,0 +1,4 @@
+1. No usar la misma contraseña para diferentes cuentas.
+2. No usar datos personales para las credenciales.
+3. Actualizar constantemente el sistema. 
+
