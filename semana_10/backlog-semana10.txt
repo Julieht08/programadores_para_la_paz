@@ -1,0 +1,15 @@
+1. Como ciudadano lo que deseo es registrar una incidencia con fotografías y 
+una descripción que la acompañe para dejar evidencia del caso y así poder 
+facilitar el seguimiento.
+
+2. Como coordinador lo que deseo es poder recibir una alerta en Telegram cuando 
+se registre un nuevo reporte para poder revisarlo y asignarlo de manera rapida.
+
+3. Como miembro del equipo lo que deseo es poder consultar el estado en que se 
+encuentran los reportes para poder hacer su seguimiento y verificar su progreso.
+
+4. Como administrador lo que deseo es generar un reporte de las incidencias 
+atendidas para llegar a evaluar el desempeño del equipo y así tomar decisiones.
+
+5. Como ciudadano lo que deseo es poder recibir una notificación cuando mi 
+reporte sea actualizado y así poder conocer el estado de mi solicitud.
