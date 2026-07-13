@@ -1,0 +1,17 @@
+1. Un ciudadano que ingresa a la plataforma y el cual crea una nueva causa, 
+escribiendo tanto el título como la descripción de la petición.
+
+2. El sistema que registra la información ingresada de la causa en la base 
+de datos y que la publica para que otras personas puedan tener la opcion de 
+verla.
+
+3. Los ciudadanos que esten interesados consultan las causas disponibles y 
+seleccionan la que mas deseen apoyar.
+
+4. Cada apoyo se registra en la base de datos y el sistema lo actualiza 
+automáticamente por el contador de apoyos.
+
+5. Cuando la causa llega a alcanzar los apoyos necesarios, el sistema lo 
+que hace es generar un documento PDF con toda la información acerca de la 
+petición y el número de apoyos para poder presentarlo ante la entidad 
+correspondiente.

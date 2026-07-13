@@ -1,0 +1,10 @@
+Evento: es el que registra una nueva causa en la plataforma Petición en 3 
+Clics.
+
+Mensaje: un ejemplo es "Nueva causa creada en la plataforma. Ingrese con 
+sus credenciales para poder conocerla y, si estás de acuerdo, brinda tu 
+apoyo."
+
+Información que no debe enviarse por seguridad: lo que no se deben enviar 
+son cédulas, teléfonos, direcciones, correos electrónicos, comentarios 
+sensibles ni ningún otro tipo de dato personal de los ciudadanos.
